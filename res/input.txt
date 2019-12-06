@@ -1,0 +1,6 @@
+București,       Brașov, Sibiu,          Constanța
+[0 1 1 1 1 0       1 0 1 1 0 0 1 0 0 1]
+[Brașov 1380 100],[Sibiu 780 140],[Constanța 880 145],[Brașov 900 100]
+[București 720 100],[Sibiu 780 140]
+[București 480 140],           [Brașov 750 140]
+[București 600 145],          [București       900 145        ]
